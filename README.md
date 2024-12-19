@@ -1,2 +1,2 @@
 # SE-
-This is a demo repository created for Understanding Github. All the modifications will be Done here.
+This is a demo repository created for Understanding Github. All the modifications will be here to share.
